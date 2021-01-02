@@ -1,5 +1,3 @@
-# React-native-AwesomeProject
+# React-native-AwesomeProject - Screenshot on Android Phone...
 
-# Screenshot on Android Phone...
-
-<img src="myfirstreactnativeapp.">
+<img src="myfirstreactnative.jpg" height="350" width="200">
